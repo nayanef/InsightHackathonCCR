@@ -1,4 +1,4 @@
-# Insight-HackathonCCR
+# InsightHackathonCCR
 
 Aplicação para Educação financeira voltada para jovens.
 

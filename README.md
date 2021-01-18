@@ -3,6 +3,7 @@
 Aplicação para Educação financeira voltada para jovens.
 
 Back End: Django
+
 Front End: ReactJS
 
 '''
